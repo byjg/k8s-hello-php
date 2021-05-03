@@ -1,0 +1,15 @@
+{
+  "name": "byjg/k8s-hello-php",
+  "description": "PHP Sample for K8s",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "jg",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "byjg/restserver": "~4.0.0"
+  }
+}
