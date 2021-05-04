@@ -36,7 +36,7 @@ kubectl apply -f kubernetes/deployment.yml
 Check if is OK:
 
 ```
-kubectl get pods -l app=k8s-node -o yaml | grep podIP
+kubectl get pods -l app=k8s-php -o yaml | grep podIP
 ```
 
 # Exposing the Api to the World:
